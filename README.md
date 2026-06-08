@@ -35,14 +35,9 @@ ask_me:    AI in real workflows · product discovery · entrepreneurial thinking
 ## 🛠️ &nbsp; Toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=7C3AED" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
 <br/>
