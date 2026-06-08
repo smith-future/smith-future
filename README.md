@@ -11,7 +11,7 @@
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://t.me/ITsmiths"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:bigmna689@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:blsmithit@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=smith-future&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -71,6 +71,6 @@ ask_me:    AI in real workflows · product discovery · knowledge management
 <br/>
 
 <!-- FOOTER -->
-<p align="center"><i>"Ship what people actually use."</i></p>
+<p align="center"><i>"Make things that matter, or don't make them at all."</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" />
