@@ -25,7 +25,7 @@ name:      Vadim
 role:      AI Adoption Lead · Product Manager
 focus:     turning "what's possible" into "what actually gets used"
 now:       driving AI adoption & product initiatives
-goal:      found a product company 🇺🇸
+goal:      found a product company 🇦🇪
 ask_me:    AI in real workflows · product discovery · entrepreneurial thinking
 ```
 
