@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:1a1a1a,100:000000&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,50:1a1a1a,100:000000&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=58&descSize=18" />
 
 <!-- TYPING SVG -->
 <p align="center">
