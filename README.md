@@ -38,6 +38,7 @@ ask_me:    AI in real workflows · product discovery · entrepreneurial thinking
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D97757" />
   <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=7C3AED" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" />
 </p>
 
 <br/>
