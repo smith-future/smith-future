@@ -1,8 +1,8 @@
 <!-- HEADER BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:f6f8fa,50:eaeef2,100:d0d7de&height=210&section=header&text=Vadim&fontSize=72&fontColor=1f2328&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18&descColor=57606a" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:eaeef2,100:d0d7de&height=210&section=header&text=Vadim&fontSize=72&fontColor=1f2328&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18&descColor=57606a" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
 </picture>
 
 <!-- TYPING SVG -->
