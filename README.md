@@ -1,103 +1,47 @@
-<!-- HEADER BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f6f8fa,50:eaeef2,100:d0d7de&height=210&section=header&text=Vadim&fontSize=72&fontColor=1f2328&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18&descColor=57606a" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:30363d,50:161b22,100:0d1117&height=210&section=header&text=Vadim&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Adoption%20Lead%20·%20Product%20Manager&descAlignY=60&descSize=18" />
-</picture>
+<h1 align="center">Vadim Kuznetsov</h1>
 
-<!-- TYPING SVG -->
 <p align="center">
-  <a href="https://github.com/smith-future">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+AI+hype+into+shipped+workflows;Product+discovery+%E2%86%92+real+adoption;Make+things+that+matter." />
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F2328&center=true&vCenter=true&width=600&lines=Turning+AI+hype+into+shipped+workflows;Product+discovery+%E2%86%92+real+adoption;Make+things+that+matter." />
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+AI+hype+into+shipped+workflows;Product+discovery+%E2%86%92+real+adoption;Make+things+that+matter." alt="Typing SVG" />
-    </picture>
-  </a>
+  <b>AI Adoption Lead · Head of AI Automation</b><br/>
+  <i>Turning "what's possible" into "what actually gets used"</i>
 </p>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://t.me/ITsmiths"><img src="https://img.shields.io/badge/Telegram-1c1c1c?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/></a>
+  <a href="https://t.me/brosmitty"><img src="https://img.shields.io/badge/Telegram-1c1c1c?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"/></a>
   <a href="mailto:blsmithit@gmail.com"><img src="https://img.shields.io/badge/Email-1c1c1c?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=smith-future&style=for-the-badge&color=1c1c1c&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+---
+
+## What I do
+
+I build AI automation as a **function**, not as a pile of one-off bots: a methodology for picking which processes to automate → a team → pipelines running in production → training the business to actually use them.
+
+Most recently — built the AI automation department from scratch at a 2500-person marketing company:
+
+- **Content production went from 17 people to 6.** Multi-agent article pipeline: 5 LLM stages, 4 parallel quality checkers, a self-correction loop of up to 20 iterations. 209 articles, 20+ per day, stable quality
+- **Up to 1700 leads/day routed across 41 projects.** Attribute extraction, 10+ filtering rules, a load-balancing selector. 96% hand-off rate, ≤60 seconds end to end, no human in the loop
+- **A department from zero: 5 hires**, a 9-criteria funnel for deciding what is worth automating, and a grading system for AI builders — a role the market has no settled standard for yet
+
+I write the pipelines myself. That is the part that decides whether an agent chain survives contact with production.
+
+Before that: 4 years shipping products from scratch — custdev and PRD through to MVPs with paying users — and running teams of up to 10.
+
+## Toolbox
+
+`Python` · `FastAPI` · `Claude (Opus, Haiku, Claude Code)` · `Gemini` · `Telegram Bot API` · `CRM integrations` · `RAG` · `browser extensions` · `Swift`
+
+## Selected work
+
+- **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor: live WYSIWYG like Typora, focus and typography like iA Writer. Swift
 
 <br/>
 
-<!-- ABOUT -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About me
-
-```yaml
-name:      Vadim
-role:      AI Adoption Lead · Product Manager
-focus:     turning "what's possible" into "what actually gets used"
-now:       driving AI adoption & product initiatives
-goal:      found a product company 🇦🇪
-ask_me:    AI in real workflows · product discovery · entrepreneurial thinking
-```
-
-<br/>
-
-<!-- TOOLBOX -->
-## 🛠️ &nbsp; Toolbox
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude-1c1c1c?style=for-the-badge&logo=anthropic&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Obsidian-1c1c1c?style=for-the-badge&logo=obsidian&logoColor=7C3AED" />
-  <img src="https://img.shields.io/badge/Cursor-1c1c1c?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/iTerm2-1c1c1c?style=for-the-badge&logo=iterm2&logoColor=white" />
-</p>
-
-<br/>
-
-<!-- STATS -->
-## 📊 &nbsp; GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=smith-future&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&count_private=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=smith-future&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=57606A&icon_color=0969DA&count_private=true&include_all_commits=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=smith-future&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&count_private=true&include_all_commits=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=smith-future&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=smith-future&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=1F2328&currStreakLabel=0969DA&sideNums=1F2328&sideLabels=57606A&dates=57606A" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=smith-future&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-future&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-future&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1F2328&text_color=57606A&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smith-future&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=8" />
-  </picture>
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=smith-future&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=smith-future&theme=flat&no-frame=true&no-bg=true&margin-w=6&row=1" />
-    <img src="https://github-profile-trophy.vercel.app/?username=smith-future&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1" />
-  </picture>
-</p>
-
-<!-- ACTIVITY GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=434343&hide_border=true&custom_title=Contribution%20Activity" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=FFFFFF&color=1F2328&line=0969DA&point=0969DA&area=true&area_color=DDF4FF&hide_border=true&custom_title=Contribution%20Activity" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=434343&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=434343&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
 </picture>
 
 <br/>
 
-<!-- FOOTER -->
 <p align="center"><i>"Make things that matter, or don't make them at all."</i></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:434343&height=120&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d0d7de,50:eaeef2,100:f6f8fa&height=120&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:434343&height=120&section=footer" />
-</picture>
