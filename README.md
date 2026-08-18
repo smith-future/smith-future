@@ -12,35 +12,17 @@
 
 ---
 
-## What I do
+## About
 
-I build AI automation as a **function**, not as a pile of one-off bots: a methodology for picking which processes to automate → a team → pipelines running in production → training the business to actually use them.
-
-Most recently — built the AI automation department from scratch at a 2500-person marketing company:
-
-- **Content production went from 17 people to 6.** Multi-agent article pipeline: 5 LLM stages, 4 parallel quality checkers, a self-correction loop of up to 20 iterations. 209 articles, 20+ per day, stable quality
-- **Up to 1700 leads/day routed across 41 projects.** Attribute extraction, 10+ filtering rules, a load-balancing selector. 96% hand-off rate, ≤60 seconds end to end, no human in the loop
-- **A department from zero: 5 hires**, a 9-criteria funnel for deciding what is worth automating, and a grading system for AI builders — a role the market has no settled standard for yet
-
-I write the pipelines myself. That is the part that decides whether an agent chain survives contact with production.
-
-Before that: 4 years shipping products from scratch — custdev and PRD through to MVPs with paying users — and running teams of up to 10.
+AI adoption and product. I build automation as a function, not as a pile of one-off bots — and I write the pipelines myself.
 
 ## Toolbox
 
-`Python` · `FastAPI` · `Claude (Opus, Haiku, Claude Code)` · `Gemini` · `Telegram Bot API` · `CRM integrations` · `RAG` · `browser extensions` · `Swift`
+`Python` · `FastAPI` · `Claude (Opus, Haiku, Claude Code)` · `Gemini` · `Telegram Bot API` · `RAG` · `Swift`
 
 ## Selected work
 
 - **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor: live WYSIWYG like Typora, focus and typography like iA Writer. Swift
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=434343&hide_border=true&custom_title=Contribution%20Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=FFFFFF&color=1F2328&line=0969DA&point=0969DA&area=true&area_color=DDF4FF&hide_border=true&custom_title=Contribution%20Activity" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smith-future&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=434343&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
-</picture>
 
 <br/>
 
