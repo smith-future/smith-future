@@ -28,10 +28,6 @@ I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web produ
 
 <sub>Two AI systems — and the brain they're trying to keep up with.</sub>
 
-## Toolbox
-
-`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Vue / Nuxt` · `Next.js` · `Swift / SwiftUI` · `LLM pipelines` · `RAG` · `Telegram Bot API`
-
 <br/>
 
 <p align="center"><i>"Make things that matter, or don't make them at all."</i></p>
