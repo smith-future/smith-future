@@ -24,9 +24,11 @@ I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web produ
 - **[Sneaker App](https://github.com/smith-future/sneaker-app)** — SwiftUI iOS app and FastAPI backend for Entrupy-powered sneaker authentication.
 - **[SNKRROOM Marketplace](https://github.com/smith-future/marketplace)** — full-stack marketplace covering accounts, catalog, orders, payments, delivery, and chat.
 
-## Toolbox
+## Stack
 
-`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Vue / Nuxt` · `Next.js` · `Swift / SwiftUI` · `LLM pipelines` · `RAG` · `Telegram Bot API`
+`Codex` · `Hermes` · `My Brain™`
+
+<sub>My brain is a legacy system: no API, no documentation, somehow still in production.</sub>
 
 <br/>
 
