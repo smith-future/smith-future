@@ -1,8 +1,8 @@
 <h1 align="center">Vadim Kuznetsov</h1>
 
 <p align="center">
-  <b>AI Adoption Lead · Head of AI Automation</b><br/>
-  <i>I lead the function and still write the pipelines.</i>
+  <b>AI Lead · In-house Development Team</b><br/>
+  <i>I lead the AI work and still write the pipelines.</i>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About me
 
-I work in the gap between an AI demo and a system people can rely on. I find the workflow worth automating, design how people and models work together, and ship the product around it.
+I lead AI initiatives in an in-house development team, turning real business workflows into systems people can rely on.
 
 I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web products, and native Swift apps. The goal is always the same — less hype, more useful software in production.
 
