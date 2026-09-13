@@ -21,8 +21,6 @@ I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web produ
 ## Selected work
 
 - **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor built with SwiftUI, AppKit, and TextKit 2. Live WYSIWYG, focus tools, and PDF/HTML export.
-- **[Sneaker App](https://github.com/smith-future/sneaker-app)** — SwiftUI iOS app and FastAPI backend for Entrupy-powered sneaker authentication.
-- **[SNKRROOM Marketplace](https://github.com/smith-future/marketplace)** — full-stack marketplace covering accounts, catalog, orders, payments, delivery, and chat.
 
 ## Stack
 
