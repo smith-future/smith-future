@@ -16,8 +16,6 @@
 
 I lead AI initiatives, turning real business workflows into systems people can rely on.
 
-I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web products, and native Swift apps. The goal is always the same — less hype, more useful software in production.
-
 ## Selected work
 
 - **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor built with SwiftUI, AppKit, and TextKit 2. Live WYSIWYG, focus tools, and PDF/HTML export.
