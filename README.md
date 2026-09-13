@@ -28,7 +28,11 @@ I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web produ
 
 `Codex` · `Hermes` · `My Brain™`
 
-<sub>My brain is a legacy system: no API, no documentation, somehow still in production.</sub>
+<sub>Two AI systems — and the brain they're trying to keep up with.</sub>
+
+## Toolbox
+
+`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Vue / Nuxt` · `Next.js` · `Swift / SwiftUI` · `LLM pipelines` · `RAG` · `Telegram Bot API`
 
 <br/>
 
