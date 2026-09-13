@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI Adoption Lead · Head of AI Automation</b><br/>
-  <i>Turning "what's possible" into "what actually gets used"</i>
+  <i>I lead the function and still write the pipelines.</i>
 </p>
 
 <p align="center">
@@ -12,17 +12,21 @@
 
 ---
 
-## About
+## About me
 
-AI adoption and product. I build automation as a function, not as a pile of one-off bots — and I write the pipelines myself.
+I work in the gap between an AI demo and a system people can rely on. I find the workflow worth automating, design how people and models work together, and ship the product around it.
 
-## Toolbox
-
-`Python` · `FastAPI` · `Claude (Opus, Haiku, Claude Code)` · `Gemini` · `Telegram Bot API` · `RAG` · `Swift`
+I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web products, and native Swift apps. The goal is always the same — less hype, more useful software in production.
 
 ## Selected work
 
-- **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor: live WYSIWYG like Typora, focus and typography like iA Writer. Swift
+- **[md-fire](https://github.com/smith-future/md-fire)** — native macOS Markdown editor built with SwiftUI, AppKit, and TextKit 2. Live WYSIWYG, focus tools, and PDF/HTML export.
+- **[Sneaker App](https://github.com/smith-future/sneaker-app)** — SwiftUI iOS app and FastAPI backend for Entrupy-powered sneaker authentication.
+- **[SNKRROOM Marketplace](https://github.com/smith-future/marketplace)** — full-stack marketplace covering accounts, catalog, orders, payments, delivery, and chat.
+
+## Toolbox
+
+`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Vue / Nuxt` · `Next.js` · `Swift / SwiftUI` · `LLM pipelines` · `RAG` · `Telegram Bot API`
 
 <br/>
 
