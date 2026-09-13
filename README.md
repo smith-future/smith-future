@@ -1,7 +1,7 @@
 <h1 align="center">Vadim Kuznetsov</h1>
 
 <p align="center">
-  <b>AI Lead · In-house Development Team</b><br/>
+  <b>AI Lead</b><br/>
   <i>I lead the AI work and still write the pipelines.</i>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About me
 
-I lead AI initiatives in an in-house development team, turning real business workflows into systems people can rely on.
+I lead AI initiatives, turning real business workflows into systems people can rely on.
 
 I stay hands-on: LLM pipelines, Python/FastAPI services, integrations, web products, and native Swift apps. The goal is always the same — less hype, more useful software in production.
 
